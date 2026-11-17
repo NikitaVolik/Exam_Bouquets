@@ -66,7 +66,7 @@ export default function App() {
       <header className='site-header'>
         <nav className='container row' aria-label='Главное меню'>
           <a href='/'>Личный кабинет</a>
-          {user ? 
+          {user ?
             <>
               <a href='/new'>Новый заказ</a>
               {user.role === 'admin' && <a href='/admin'>Администратор</a>}
@@ -82,7 +82,7 @@ export default function App() {
         {page}
       </main>
       <footer className='container page'>
-        <small>Учебный сервис</small>
+        <small>«Лепесток»</small>
       </footer>
     </>
   )

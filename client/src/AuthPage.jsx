@@ -5,7 +5,7 @@ const registerFields = [
   ['login', 'Логин', 'text', 'username'],
   ['password', 'Пароль', 'password', 'new-password'],
   ['full_name', 'ФИО', 'text', 'name'],
-  ['phone_number', 'Пароль', 'tel', 'tel'],
+  ['phone_number', 'Телефон', 'tel', 'tel'],
   ['email', 'Email', 'text', 'email']
 ]
 

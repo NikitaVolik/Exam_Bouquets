@@ -31,4 +31,6 @@ npm run dev
 
 Открой адрес, который выведет Vite. Для входа администратора укажи экзаменационные реквизиты Admin26 / Demo20.
 
-[ER-диаграмма] (docs/er-diagram.md)
+[ER-диаграмма](docs/er-diagram.md)
+
+[Скриншоты](client/public/screenshots)
