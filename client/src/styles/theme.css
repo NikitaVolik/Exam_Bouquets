@@ -46,3 +46,10 @@ small { font-size: var(--fs-small); color: #276047; }
   max-width: 760px;
   margin-inline: auto;
 }
+.card-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
